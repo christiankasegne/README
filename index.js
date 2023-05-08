@@ -23,7 +23,7 @@ const questions = [
   {
     type:`input`,
     name:`usage`,
-    massage:`Provide instructions how to use`,
+    message:`Provide instructions how to use`,
   },
   {
     type: `input`,
