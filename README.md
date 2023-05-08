@@ -1,5 +1,5 @@
 # README
-by christian kasegne
+by Christian Kasegne
 
 ## Description
 It helps you generate a professional README file through the terminal
